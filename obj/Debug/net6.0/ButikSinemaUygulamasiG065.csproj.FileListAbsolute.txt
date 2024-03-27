@@ -1,0 +1,14 @@
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\bin\Debug\net6.0\ButikSinemaUygulamasiG065.exe
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\bin\Debug\net6.0\ButikSinemaUygulamasiG065.deps.json
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\bin\Debug\net6.0\ButikSinemaUygulamasiG065.runtimeconfig.json
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\bin\Debug\net6.0\ButikSinemaUygulamasiG065.dll
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\bin\Debug\net6.0\ButikSinemaUygulamasiG065.pdb
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\obj\Debug\net6.0\ButikSinemaUygulamasiG065.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\obj\Debug\net6.0\ButikSinemaUygulamasiG065.AssemblyInfoInputs.cache
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\obj\Debug\net6.0\ButikSinemaUygulamasiG065.AssemblyInfo.cs
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\obj\Debug\net6.0\ButikSinemaUygulamasiG065.csproj.CoreCompileInputs.cache
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\obj\Debug\net6.0\ButikSinemaUygulamasiG065.dll
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\obj\Debug\net6.0\refint\ButikSinemaUygulamasiG065.dll
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\obj\Debug\net6.0\ButikSinemaUygulamasiG065.pdb
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\obj\Debug\net6.0\ButikSinemaUygulamasiG065.genruntimeconfig.cache
+C:\Users\MKURT\Desktop\ButikSinemaUygulamasiG065\obj\Debug\net6.0\ref\ButikSinemaUygulamasiG065.dll
